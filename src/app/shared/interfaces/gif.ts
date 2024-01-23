@@ -5,5 +5,5 @@ export interface Gif {
   permalink: string;
   title: string;
   thumbnail: string;
-  comments: string;
+  comments: number;
 }
